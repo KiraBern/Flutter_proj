@@ -5,7 +5,6 @@ void main() {
   runApp(MyApp());
   }
 
-/// This is the main application widget.
 class MyApp extends StatelessWidget {
 
   @override
